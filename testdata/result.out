@@ -1,0 +1,160 @@
+>Y18371.1/1831-2104
+
+ Pattern desc.: pat, Matching pos. = 22, Strand = forward, Score = 13, Edist = 4
+
+Pattern ..((.)().).
+        CGAYUGGCANA
+        |  +| || +|
+Target  C-CUU-GCGGA
+        .-(..-().).
+
+>Y18371.1/1831-2104
+
+ Pattern desc.: pat, Matching pos. = 90, Strand = forward, Score = 13, Edist = 4
+
+Pattern ..((.)().).
+        CGAYUGGCANA
+         || |||  +|
+Target  GGA-UGG-GUA
+        ..(-...-.).
+
+>Y18371.1/1831-2104
+
+ Pattern desc.: pat, Matching pos. = 141, Strand = forward, Score = 13, Edist = 4
+
+Pattern ..((.)(-).).
+        CGAYUGG-CANA
+        ||  ||| | +|
+Target  CGU-UGGUCUAA
+        ..(-..(.).).
+
+>Y18371.1/1831-2104
+
+ Pattern desc.: pat, Matching pos. = 180, Strand = forward, Score = 13, Edist = 4
+
+Pattern ..((.)().).
+        CGAYUGGCANA
+         ||  ||| +|
+Target  UGA--GGCUUA
+        ..(--.().).
+
+>Y18370.1/1695-1968
+
+ Pattern desc.: pat, Matching pos. = 22, Strand = forward, Score = 13, Edist = 4
+
+Pattern ..((.)().).
+        CGAYUGGCANA
+        |  +| || +|
+Target  C-CUU-GCGGA
+        .-(..-().).
+
+>Y18370.1/1695-1968
+
+ Pattern desc.: pat, Matching pos. = 90, Strand = forward, Score = 13, Edist = 4
+
+Pattern ..((.)().).
+        CGAYUGGCANA
+         || |||  +|
+Target  GGA-UGG-GUA
+        ..(-...-.).
+
+>Y18370.1/1695-1968
+
+ Pattern desc.: pat, Matching pos. = 141, Strand = forward, Score = 13, Edist = 4
+
+Pattern ..((.)(-).).
+        CGAYUGG-CANA
+        ||  ||| | +|
+Target  CGU-UGGUCUAA
+        ..(-..(.).).
+
+>Y18370.1/1695-1968
+
+ Pattern desc.: pat, Matching pos. = 180, Strand = forward, Score = 13, Edist = 4
+
+Pattern ..((.)().).
+        CGAYUGGCANA
+         ||  ||| +|
+Target  UGA--GGCUUA
+        ..(--.().).
+
+>Y18371.1/1831-2104
+
+ Pattern desc.: pat, Matching pos. = 33, Strand = reverse, Score = 13, Edist = 4
+
+Pattern .(.()(.))..
+        UNUGCCARUCG
+        |+|   |+|||
+Target  UUU-A-AGUCG
+        ...-.-.....
+
+>Y18371.1/1831-2104
+
+ Pattern desc.: pat, Matching pos. = 72, Strand = reverse, Score = 13, Edist = 4
+
+Pattern .(.()(.))..
+        UNUGCCARUCG
+        |+| | | | |
+Target  UAU-C-ACUAG
+        .(.-.-..)..
+
+>Y18371.1/1831-2104
+
+ Pattern desc.: pat, Matching pos. = 133, Strand = reverse, Score = 13, Edist = 4
+
+Pattern .(.()(.))..
+        UNUGCCARUCG
+        |+| ||  |||
+Target  UAU-CCUCUCG
+        .(.-....)..
+
+>Y18371.1/1831-2104
+
+ Pattern desc.: pat, Matching pos. = 173, Strand = reverse, Score = 13, Edist = 4
+
+Pattern .(.()(.))..
+        UNUGCCARUCG
+        |+| | |+  |
+Target  UCU-C-AAGUG
+        .(.-.-..)..
+
+>Y18370.1/1695-1968
+
+ Pattern desc.: pat, Matching pos. = 33, Strand = reverse, Score = 13, Edist = 4
+
+Pattern .(.()(.))..
+        UNUGCCARUCG
+        |+|   |+|||
+Target  UUU-A-AGUCG
+        ...-.-.....
+
+>Y18370.1/1695-1968
+
+ Pattern desc.: pat, Matching pos. = 72, Strand = reverse, Score = 13, Edist = 4
+
+Pattern .(.()(.))..
+        UNUGCCARUCG
+        |+| | | | |
+Target  UAU-C-ACUAG
+        .(.-.-..)..
+
+>Y18370.1/1695-1968
+
+ Pattern desc.: pat, Matching pos. = 133, Strand = reverse, Score = 13, Edist = 4
+
+Pattern .(.()(.))..
+        UNUGCCARUCG
+        |+| ||  |||
+Target  UAU-CCUCUCG
+        .(.-....)..
+
+>Y18370.1/1695-1968
+
+ Pattern desc.: pat, Matching pos. = 173, Strand = reverse, Score = 13, Edist = 4
+
+Pattern .(.()(.))..
+        UNUGCCARUCG
+        |+| | |+  |
+Target  UCU-C-AAGUG
+        .(.-.-..)..
+
